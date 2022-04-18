@@ -1,0 +1,35 @@
+{
+  "name": "auto-reply-dms",
+  "version": "1.0.0",
+  "description": "Auto Reply DM messages with an AFK message",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "afk",
+    "discord.js",
+    "self-bot"
+  ],
+  "author": "meesam4687",
+  "license": "ISC",
+  "dependencies": {
+    "console-stamp": "^3.0.4",
+    "discord.js-selfbot": "^12.0.2",
+    "log-timestamp": "^0.3.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meesam4687/auto-reply-dms-discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meesam4687/auto-reply-dms-discord/issues"
+  },
+  "homepage": "https://github.com/meesam4687/auto-reply-dms-discord#readme"
+}
