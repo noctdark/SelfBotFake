@@ -1,20 +1,8 @@
 {
-  "name": "auto-reply-dms",
+  "name": "SelfBotFake",
   "version": "1.0.0",
-  "description": "Auto Reply DM messages with an AFK message",
+  "description": "The SelfBotFake has a fooling function",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [
-    "discord",
-    "javascript",
-    "afk",
-    "discord.js",
-    "self-bot"
-  ],
-  "author": "meesam4687",
-  "license": "ISC",
   "dependencies": {
     "console-stamp": "^3.0.4",
     "discord.js-selfbot": "^12.0.2",
@@ -24,12 +12,18 @@
     "prompt-sync": "^4.2.0"
   },
   "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meesam4687/auto-reply-dms-discord.git"
+    "url": "git+https://github.com/noctdark/SelfBotFake.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/meesam4687/auto-reply-dms-discord/issues"
+    "url": "https://github.com/noctdark/SelfBotFake/issues"
   },
-  "homepage": "https://github.com/meesam4687/auto-reply-dms-discord#readme"
+  "homepage": "https://github.com/noctdark/SelfBotFake#readme"
 }
